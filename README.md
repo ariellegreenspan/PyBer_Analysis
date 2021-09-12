@@ -2,17 +2,17 @@
 
 ## Overview of the analysis: 
   
-  00The purpose of the analysis was to analyze rideshare data of 3 city types: urban, suburban. and rural. Using this data, the total number of rides, the total number of drivers, the total fares, the average fares per ride, average fares per driver for each type of city were calculated. Using this data, one can draw conclusions about the correlation of city type on all of these factors. In the second half of the analysis, the effect of city type over the time period between January and April 2019 on driver fares was examined. After conducting this analysis, one can see the effect of city type on rider fares. 
+  The purpose of the analysis was to analyze rideshare data of 3 city types: urban, suburban. and rural. Using this data, the total number of rides, the total number of drivers, the total fares, the average fares per ride, average fares per driver for each type of city were calculated. Using this data, one can draw conclusions about the correlation of city type on all of these factors. In the second half of the analysis, the effect of city type over the time period between January and April 2019 on driver fares was examined. After conducting this analysis, one can see the effect of city type on rider fares. 
 
 ## Results: 
   
   The analysis displayed that urban cities had the greatest number of rides, greatest number of drivers, and greatest amount of fares accumulated, followed by suburban cities, and then rural cities, which had the lowest numbers. Average fare per ride, however, was the lowest in urban cities, with an average fare of $24.53 per ride. Average fare per driver was similarly the lowest in urban cities at $16.57 per driver. Suburban cities had higher average fares than urban cities, with an average fare per ride of $30.97 and an average fare per driver of $39.50. Rural cities had the highest average fares, which an average fare per ride of $34.62, ad an average fare per driver of $55.49. The results of the first analysis can be displayed below:
   
-  ![Chart Data](Resources/Chart_Data)
+  ![Chart Data](Resources/Chart_Data.png)
  
  The second analysis results displayed that rural cities received the lowest total fares. Suburban cities had the second-lowest total fares. Urban cities had the highest total fares accumulated. The highest total point for fares in rural cities was the first week of April. The highest total point for fares in suburban and urban cities was in the last week of February. Rural cities also experienced a high point in the last week of February. 
  
-![Line Chart](Resources/Line_Chart)
+![Line Chart](Resources/Line_Chart.png)
 
 ## Summary: 
   
